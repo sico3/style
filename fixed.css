@@ -1,0 +1,49 @@
+/*Style Name:Fnon Full Option v2/ Team: Fnon for Web Design  /Team URI: http://f-non.net  /Author:Eng.Abdallah ( Abdallah Ramadan )  
+/Author URI:https://www.fb.com/Eng.AbdallahPS*/
+@font-face {
+  font-family: 'Droid Arabic Kufi';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/DroidKufi-Regular.eot);
+  src: url(fonts/DroidKufi-Regular.eot?#iefix) format('embedded-opentype'),
+       url(fonts/DroidKufi-Regular.woff2) format('woff2'),
+       url(fonts/DroidKufi-Regular.woff) format('woff'),
+       url(fonts/DroidKufi-Regular.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Droid Arabic Kufi';
+  font-style: normal;
+  font-weight: 700;
+  src: url(fonts/DroidKufi-Bold.eot);
+  src: url(fonts/DroidKufi-Bold.eot?#iefix) format('embedded-opentype'),
+       url(fonts/DroidKufi-Bold.woff2) format('woff2'),
+       url(fonts/DroidKufi-Bold.woff) format('woff'),
+       url(fonts/DroidKufi-Bold.ttf) format('truetype');
+}
+body{padding:0;margin:0;background:url(img/bodybg.jpg) repeat; overflow-style:marquee-line}
+.container{width:1000px;margin:auto;height:auto;}
+.first_menu{height:76px;background:#FFF;border:1px solid #d7d7d7;margin:auto;line-height:76px;box-shadow:0px 0px 1px #b4b4b4}
+.first_menu_loo{height:76px;margin:auto;}
+a{text-decoration:none;}
+.adssmall{float:right;position:relative;right:165px;top:-70px;}
+.adsbig{float:right;position:relative;right:26px;margin-top:-87px;}
+.logo{float:left;margin:-55px -10px 20px 0px;width:auto;height:auto;position:relative;right:-10px;}
+/*title tooltip */
+div#qTip{margin:auto;background:#333;position:absolute;border-radius:3px;color:#FFF;text-align:center;padding:5px;margin-right:50%;
+float:right;opacity:0.9;max-width:300px;font-weight:bold;font-size:10px;font-family:'droid Arabic Kufi',tahoma;transition:all 0.3s ease-in-out;-moz-transition:all 0.3s ease-in-out;-ms-transition:all 0.3s ease-in-out;-o-transition:all 0.3s ease-in-out;-webkit-transition:all 0.3s ease-in-out;min-width:90px;display:none;z-index:2000}
+div#qTip:after{border: 5px solid transparent;border-bottom-color:#333;width:0px;height:0px;content: ' ';position:absolute;top:-10px;right:75%;}
+.clear_fix{clear:both;}
+.colors-switch-cont a:nth-child(1){background:#bb99cd;}
+.colors-switch-cont a:nth-child(2){background:#1e9ce4;}
+.colors-switch-cont a:nth-child(3){background:#facd1a;}
+.colors-switch-cont a:nth-child(4){background:#bfac6e;}
+.colors-switch-cont a:nth-child(5){background:#383838;}
+.colors-switch-cont a:nth-child(6){background:#8eac42;}
+.colors-switch-cont a:nth-child(7){background:#f88ec5;}
+.colors-switch-cont a:nth-child(8){background:#DD2229;}
+.colors-switch-cont a:nth-child(9){background:#0adfeb;}
+.colors-switch-cont a:nth-child(10){background:#5bc760;}
+.colors-switch-cont a:nth-child(11){background:#4cb18a;}
+.colors-switch-cont a:nth-child(12){background:#7a9ccb;}
+select{font:normal 10px/28px 'droid Arabic Kufi', 'Lucida Grande',tahoma;height:28px;margin:0px 5px;}
+option, optgroup{font:normal 10px 'droid Arabic Kufi', 'Lucida Grande',tahoma;}
