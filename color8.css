@@ -1,11 +1,11 @@
 /*Style Name:Fnon Full Option v2/ Team: Fnon for Web Design  /Team URI: http://f-non.net  /Author:Eng.Abdallah ( Abdallah Ramadan ) 
-/Author URI:https://www.fb.com/Eng.AbdallahPS*/
+/Author URI:https://www.fb.com/sayed133*/
 /*First Menu*/
-body{color: #000000;font: 12px tahoma,verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;direction:rtl}
-a,body_alink{color:#a17fb3;}
+body{color: #000000;font: 12px tahoma,verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;}
+a,body_alink{color:#b74146;}
 td,th,p,li{font:10pt tahoma,verdana, geneva, lucida,'lucida grande', arial, helvetica, sans-serif;}
 .tborder{background:#f3f3f3;color:#333;border: 2px solid #ebebeb;}
-.tcat{background: #a378ba;color:#FFFFFF;font: bold 12px 'droid Arabic Kufi', 'Lucida Grande',tahoma;}
+.tcat{background: #cd474d;color:#FFFFFF;font: bold 12px 'droid Arabic Kufi', 'Lucida Grande',tahoma;}
 .tcat a:link,.tcat_alink{color:#ffffff;text-decoration: none;}
 .tcat a:visited,.tcat_avisited{color:#ffffff;text-decoration: none;}
 .tcat a:hover,.tcat a:active, .tcat_ahover{color: #ebebeb;text-decoration: underline;}
@@ -19,24 +19,24 @@ td,th,p,li{font:10pt tahoma,verdana, geneva, lucida,'lucida grande', arial, helv
 .alt2, .alt2Active{background:#f9f9f9;color:#000000;}
 .inlinemod{background:#f9f7d4;color:#000000;}
 .wysiwyg{background:#FFFFFF;color:#333;font: 10pt verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;margin:5px 10px 10px 10px;}
-.wysiwyg a:link, .wysiwyg_alink,.wysiwyg a:visited,.wysiwyg_avisited{color: #a17fb3;}
-.wysiwyg a:hover, .wysiwyg a:active, .wysiwyg_ahover{color: #bb99cd;}
+.wysiwyg a:link, .wysiwyg_alink,.wysiwyg a:visited,.wysiwyg_avisited{color: #b74146;}
+.wysiwyg a:hover, .wysiwyg a:active, .wysiwyg_ahover{color: #d54c52;}
 textarea, .bginput{font: 10pt tahoma,verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;}
 .bginput option, .bginput optgroup{font-size: 10pt;font-family: tahoma,verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;}
 .button{font:normal 10px 'droid Arabic Kufi', 'Lucida Grande',tahoma;padding:5px; border: 1px solid #d4d4d4;color:#333;white-space:nowrap; 
 cursor:pointer;background-color:#ececec;background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#f4f4f4), to(#ececec));background-image: -moz-linear-gradient(#f4f4f4, #ececec);background-image: -o-linear-gradient(#f4f4f4, #ececec);background-image: linear-gradient(#f4f4f4, #ececec);}
-select{font:normal 10px 'droid Arabic Kufi', 'Lucida Grande',tahoma;}
+select{font: 12px tahoma,verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;}
 option, optgroup{font-size: 12px;font-family: tahoma,verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;}
 .smallfont{font: 12px tahoma,verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;}
-.time{color:#bb99cd;}
+.time{color:#d54c52;}
 .navbar{font: 11px tahoma,verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;}
 .highlight{color:#FF0000;font-weight: bold;}
-.fjsel{background: #a17fb3;color: #FFFFFF;}
+.fjsel{background: #b74146;color: #FFFFFF;}
 .fjdpth0{background: #F7F7F7;color: #000000;}
 .panel{background: #FBFBFB;color: #333;padding: 10px;border: 2px solid #ebebeb;}
 .panelsurround{background: #FCFCFC;color: #333;}
 legend{color: #22229C;font: 11px tahoma, verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;}
-.vbmenu_control{background:#a378ba;color:#FFFFFF;font: bold 12px tahoma, verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+.vbmenu_control{background:#cd474d;color:#FFFFFF;font: bold 12px tahoma, verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
 padding: 3px 6px 3px 6px;white-space: nowrap;}
 .vbmenu_control a:link, .vbmenu_control_alink{color: #FFFFFF;text-decoration: none;}
 .vbmenu_control a:visited, .vbmenu_control_avisited{color: #FFFFFF;text-decoration: none;}
@@ -44,14 +44,15 @@ padding: 3px 6px 3px 6px;white-space: nowrap;}
 .vbmenu_popup{background: #FFFFFF;color: #333;border: 1px solid #0B198C;}
 .vbmenu_option{background: #FFFFFF;color: #333;font: 12px tahoma,verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;white-space: nowrap;
 cursor: pointer;}
-.vbmenu_option a:link, .vbmenu_option_alink{color: #a17fb3;text-decoration: none;}
-.vbmenu_option a:visited, .vbmenu_option_avisited{color: #a17fb3;text-decoration: none;}
-.vbmenu_option a:hover, .vbmenu_option a:active, .vbmenu_option_ahover{color: #bb99cd;text-decoration: none;}
+.vbmenu_option a:link, .vbmenu_option_alink{color: #b74146;text-decoration: none;}
+.vbmenu_option a:visited, .vbmenu_option_avisited{color: #b74146;text-decoration: none;}
+.vbmenu_option a:hover, .vbmenu_option a:active, .vbmenu_option_ahover{color: #d54c52;text-decoration: none;}
 .vbmenu_hilite{background: #FFFFFF;color: #333;font: 12px tahoma,verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;white-space: nowrap;
+
 cursor: pointer;}
-.vbmenu_hilite a:link, .vbmenu_hilite_alink{color: #a17fb3;text-decoration: none;}
-.vbmenu_hilite a:visited, .vbmenu_hilite_avisited{color: #a17fb3;text-decoration: none;}
-.vbmenu_hilite a:hover, .vbmenu_hilite a:active, .vbmenu_hilite_ahover{color:#bb99cd;text-decoration: none;}
+.vbmenu_hilite a:link, .vbmenu_hilite_alink{color: #b74146;text-decoration: none;}
+.vbmenu_hilite a:visited, .vbmenu_hilite_avisited{color: #b74146;text-decoration: none;}
+.vbmenu_hilite a:hover, .vbmenu_hilite a:active, .vbmenu_hilite_ahover{color:#d54c52;text-decoration: none;}
 /* ***** styling for 'big' usernames on postbit etc. ***** */
 .bigusername { font-size: 14pt; }
 /* ***** small padding on 'thead' elements ***** */
@@ -67,201 +68,202 @@ a.shade:active, a.shade:hover { color: #FF4400; text-decoration: underline; }
 .fieldset { margin-bottom: 6px; }
 .fieldset, .fieldset td, .fieldset p, .fieldset li { font-size: 11px; }
 /*Style Name:Fnon Full Option v2/ Team: Fnon for Web Design  /Team URI: http://f-non.net  /Author:Eng.Abdallah ( Abdallah Ramadan ) 
-/Author URI:https://www.fb.com/Eng.AbdallahPS*/
+/Author URI:https://www.fb.com/sayed133*/
 /*First Menu*/
-a{color:#bb99cd;}
-.first_menu_color{height:56px;background:#bb99cd;margin-top:10px;}
-.first_menu_color_left{float:left;position:relative;background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -1px -2px;width:14px;height:68px;left:-12px;top:4px;}
-.first_menu_color_right{float:right;position:relative;background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -17px -2px;width:13px;height:68px;right:-12px;top:4px;}
+a{color:#d54c52;}
+.first_menu_color{height:56px;background:#d54c52;margin-top:10px;}
+.first_menu_color_left{float:left;position:relative;background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -1px -2px;width:14px;height:68px;left:-12px;top:4px;}
+.first_menu_color_right{float:right;position:relative;background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -17px -2px;width:13px;height:68px;right:-12px;top:4px;}
 .first_menu_color ul{list-style-type:none;margin:auto;}
-.first_menu_li{float:right;padding:0px 5px;color:#FFF;font:bold 14px/56px 'Droid Arabic Kufi',tahoma;white-space:nowrap;border-left:1px solid #a378ba;}
+.first_menu_li{float:right;padding:0px 5px;color:#FFF;font:bold 14px/56px 'Droid Arabic Kufi',tahoma;white-space:nowrap;border-left:1px solid #cd474d;}
 .first_menu_li a{color:#FFF;padding:0px 5px 0px 0px;}
-.first_menu_li:hover{background:#FFF;color:#bb99cd;}
-.first_menu_li:hover a{color:#bb99cd;}
-.first_menu_li:last-child{border-left:0px solid #a378ba;}
-.first_ul_icon1{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -35px -11px;float:right;width:19px;height:19px;margin-top:17px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
-.first_menu_color ul li:hover .first_ul_icon1{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -35px -43px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
-.first_ul_icon2{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -57px -12px;float:right;width:24px;height:22px;margin-top:17px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
-.first_menu_color ul li:hover .first_ul_icon2{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -57px -43px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
-.first_ul_icon3{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -84px -9px;float:right;width:32px;height:28px;margin-top:13px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
-.first_menu_color ul li:hover .first_ul_icon3{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -84px -40px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
-.first_ul_icon4{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -120px -10px;float:right;width:23px;height:23px;margin-top:15px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
-.first_menu_color ul li:hover .first_ul_icon4{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -120px -41px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
-.first_ul_icon5{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -147px -10px;float:right;width:27px;height:25px;margin-top:13px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
-.first_menu_color ul li:hover .first_ul_icon5{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -147px -41px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
-.first_ul_icon6{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -177px -14px;float:right;width:26px;height:20px;margin-top:15px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
-.first_menu_color ul li:hover .first_ul_icon6{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -177px -46px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
-.first_ul_icon7{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -208px -9px;float:right;width:26px;height:26px;margin-top:13px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
-.first_menu_color ul li:hover .first_ul_icon7{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -208px -41px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
-.first_ul_icon8{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -239px -12px;float:right;width:27px;height:18px;margin-top:19px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
-.first_menu_color ul li:hover .first_ul_icon8{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -239px -43px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.first_menu_li:hover{background:#FFF;color:#d54c52;}
+.first_menu_li:hover a{color:#d54c52;}
+.first_menu_li:last-child{border-left:0px solid #cd474d;}
+.first_ul_icon1{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -35px -11px;float:right;width:19px;height:19px;margin-top:17px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.first_menu_color ul li:hover .first_ul_icon1{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -35px -43px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.first_ul_icon2{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -57px -12px;float:right;width:24px;height:22px;margin-top:17px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.first_menu_color ul li:hover .first_ul_icon2{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -57px -43px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.first_ul_icon3{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -84px -9px;float:right;width:32px;height:28px;margin-top:13px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.first_menu_color ul li:hover .first_ul_icon3{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -84px -40px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.first_ul_icon4{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -120px -10px;float:right;width:23px;height:23px;margin-top:15px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.first_menu_color ul li:hover .first_ul_icon4{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -120px -41px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.first_ul_icon5{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -147px -10px;float:right;width:27px;height:25px;margin-top:13px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.first_menu_color ul li:hover .first_ul_icon5{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -147px -41px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.first_ul_icon6{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -177px -14px;float:right;width:26px;height:20px;margin-top:15px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.first_menu_color ul li:hover .first_ul_icon6{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -177px -46px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.first_ul_icon7{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -208px -9px;float:right;width:26px;height:26px;margin-top:13px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.first_menu_color ul li:hover .first_ul_icon7{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -208px -41px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.first_ul_icon8{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -239px -12px;float:right;width:27px;height:18px;margin-top:19px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.first_menu_color ul li:hover .first_ul_icon8{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -239px -43px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
 /*First Menu Dropdown*/
 .first_dropmenu{list-style-type:none;margin:auto;position:absolute;padding:10px 0px;background:#FFF;border:1px solid #ebebeb;border-radius:7px;
 text-align:right;display:none;height:auto;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;z-index:100;}
 .first_menu_color ul li:hover > .first_dropmenu{display:block;height:auto;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
 .first_dropmenu li:last-child{border-bottom:0px solid #ebebeb;}
-.first_dropmenu_icon{float:right;width:11px;height:13px;background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -273px -38px;margin-top:8px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.first_dropmenu_icon{float:right;width:11px;height:13px;background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -273px -38px;margin-top:8px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
 .first_dropmenu li{font:normal 12px/30px tahoma;margin:0px 0px 0px 0px;border-bottom:1px solid #ebebeb;
 padding:0px 10px;height:30px;float:inherit;}
-.first_dropmenu li a{color:#bb99cd;padding:0px 5px 0px 0px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.first_dropmenu li a{color:#d54c52;padding:0px 5px 0px 0px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
 .first_dropmenu li:hover a{color:#333;padding:0px 10px 0px 0px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
-.first_dropmenu li:hover .first_dropmenu_icon{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -273px -21px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.first_dropmenu li:hover .first_dropmenu_icon{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -273px -21px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
 .first_dropmenu:after{border:10px solid transparent;border-bottom-color:#FFF;width:0px;height:0px;content: ' ';
 position:absolute;top:0;margin-top:-20px;right:0;margin-right:50%;z-index:1001;}
 .first_dropmenu:before{border:11px solid transparent;border-bottom-color:#ebebeb;width:0px;height:0px;content: ' ';
 position:absolute;top:0;margin-top:-22px;right:0;margin-right:49.1%;z-index:1001;}
 /*Log in */
-#login_show{width:154px;height:38px;font:bold 14px/33px 'Droid Arabic Kufi', tahoma;background:#FFF;float:right;border:1px #d7d7d7 solid;border-top:0px #d7d7d7 solid;margin:11px -14px 0px 0px;box-shadow:0px 0px 1px #b4b4b4;cursor:pointer;}
-.login_show_icon{float:right;width:18px;height:18px;background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -287px -14px;margin:6px 17px 0px 0px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+#login_show{width:154px;height:38px;font:bold 14px/33px 'Droid Arabic Kufi', tahoma;background:#FFF;float:right;
+border:1px #d7d7d7 solid;border-top:0px #d7d7d7 solid;margin:11px -14px 0px 0px;box-shadow:0px 0px 1px #b4b4b4;cursor:pointer;}
+.login_show_icon{float:right;width:18px;height:18px;background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -287px -14px;margin:6px 17px 0px 0px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
 #login_show a{color:#aaaaaa;padding:0px 5px 0px 0px;}
-#login_show:hover a{color:#818181;} #login_show:hover .login_show_icon{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -287px -38px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+#login_show:hover a{color:#818181;} #login_show:hover .login_show_icon{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -287px -38px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
 .login_show_shadow_clear{width:154px;height:2px;background:#FFF;float:right;margin:10px -155px 0px 0px ;}
 .login{width:346px;height:150px;margin:auto;background:#FFF;border:1px solid #d7d7d7;border-top:0px #d7d7d7 solid;box-shadow:0px 0px 1px #b4b4b4;
 float:right;position:absolute;display:none;margin-right:0px;z-index:100}
 .login_clear_shadow{width:346px;height:4px;background:#FFF;float:right;position:absolute;z-index:998;margin:-3px 0px 0px 0px;}
 .userlabel{width:300px;height:38px;background:#f8f8f8;border:1px solid #f4f1f1;margin:auto;position:relative;top:30px;border-radius:5px;}
-.username_icon{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -332px -14px;width:25px;height:17px;float:right;margin:10px 7px 0px 0px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.username_icon{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -332px -14px;width:25px;height:17px;float:right;margin:10px 7px 0px 0px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
 .userlabel input{width:230px;height:38px;font:bold 13px/38px 'Droid Arabic Kufi', tahoma;border:0px solid #000;background:transparent;padding:0px 7px;
 color:#aaaaaa;}.userlabel:hover input{color:#818181;}
-.userlabel:hover .username_icon{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -332px -39px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.userlabel:hover .username_icon{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -332px -39px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
 .passwordlabel{width:300px;height:38px;background:#f8f8f8;border:1px solid #f4f1f1;margin:auto;position:relative;top:20px;border-radius:5px;}
 .passwordlabel input{width:250px;height:38px;font:bold 13px/38px 'Droid Arabic Kufi', tahoma;border:0px solid #000;background:transparent;padding:0px 7px;
 color:#aaaaaa;margin-top:-2px;}.passwordlabel:hover input{color:#818181;}
-.password_icon{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -310px -14px;width:18px;height:18px;float:right;margin:10px 10px 0px 0px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
-.passwordlabel:hover .password_icon{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -310px -38px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.password_icon{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -310px -14px;width:18px;height:18px;float:right;margin:10px 10px 0px 0px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.passwordlabel:hover .password_icon{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -310px -38px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
 .checkbox{height:20px;font:normal 10px/20px 'Droid Arabic Kufi', tahoma;margin-right:10px;position:relative;top:3px;}
 .checkbox input[type="checkbox"]{border:0px solid #000;background:#f8f8f8;color:#333;position:relative;top:4px;}
 .login_form_links a{color:#aaaaaa;padding:0px 5px 0px 0px;}.login_form_links{width:300px;margin:auto;color:#aaaaaa;}
 .new_member{white-space:nowrap;height:20px;font:normal 11px/20px 'Droid Arabic Kufi', tahoma;margin-right:10px;float:right;margin-top:7px;}
-.new_member_icon{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -360px -17px;width:17px;height:14px;float:right;position:relative;top:4px;right:5px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.new_member_icon{background:url(../img/color1_sprits.png) -360px -17px;width:17px;height:14px;float:right;position:relative;top:4px;right:5px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
 .lost_password{white-space:nowrap;height:20px;font:normal 11px/20px 'Droid Arabic Kufi', tahoma;margin-right:10px;margin-right:10px;float:right;
 margin-top:5px;}
-.lost_password_icon{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -380px -18px;width:9px;height:12px;float:right;position:relative;top:6px;right:-2px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.lost_password_icon{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -380px -18px;width:9px;height:12px;float:right;position:relative;top:4px;right:-2px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
 .login_submit{height:34px;width:80px;border:1px solid #d7d7d7;border-top:0px #d7d7d7 solid;box-shadow:0px 0px 1px #b4b4b4;text-align:center;
 margin:0px -1px 0px 0px;background:#FFF;white-space:nowrap}
-.login_submit_icon{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -393px -15px;width:18px;height:18px;float:right;position:relative;top:7px;right:10px;
+.login_submit_icon{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -393px -15px;width:18px;height:18px;float:right;position:relative;top:7px;right:10px;
 transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
-.login_submit:hover .login_submit_icon{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -393px -37px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.login_submit:hover .login_submit_icon{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -393px -37px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
 .login_submit input[type="submit"]{border:0px solid #000;background:transparent;font:bold 14px/34px 'Droid Arabic Kufi', tahoma;color:#aaaaaa;}
 .login_submit:hover input[type="submit"]{color:#818181;cursor:pointer;}
 .login_submit_shadow_clear{width:80px;height:2px;background:#FFF;float:right;margin:-36px -0px 0px 0px;}
-#login_hide{width:19px;height:19px;float:right;margin-right:15px;margin-top:5px;background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -365px -37px;cursor:pointer;}
+#login_hide{width:19px;height:19px;float:right;margin-right:15px;margin-top:5px;background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -365px -37px;cursor:pointer;}
 /*slideshow .........*/
 /*slide Box*/
 #tabs{width:98%;height:200px;background:#FFF;box-shadow:0px 0px 1px #b4b4b4;border:1px solid #d7d7d7;position:relative;margin:auto;overflow:hidden;}
 /*tabs ul head*/
 .tabs{list-style-type:none;margin:auto;float:right;margin:0px; padding:0px;}
-.tabs{height:42px;background:#bb99cd;overflow:hidden;width:100%;float:right;}
+.tabs{height:42px;background:#d54c52;overflow:hidden;width:100%;float:right;}
 .tabs li{float:right;list-style:none;display:inline;}
 /*tabs li a head*/
 .tabs li a{color:#FFF;font:bold 14px/42px 'Droid Arabic Kufi', tahoma;padding:0px 7px;floaT:right;margin-right:10px;white-space:nowrap}
-.tabs li a:hover{background:#FFF;color:#bb99cd;cursor:pointer;}
-.tabs li a.selected{background:#FFF;color:#bb99cd;}
+.tabs li a:hover{background:#FFF;color:#d54c52;cursor:pointer;}
+.tabs li a.selected{background:#FFF;color:#d54c52;}
 /*tabs li icons span*/
-.tipbut_icon{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -417px -12px;float:right;width:18px;height:18px;position:relative;top:12px;right:5px;
+.tipbut_icon{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -417px -12px;float:right;width:18px;height:18px;position:relative;top:12px;right:5px;
 transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;
 -o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
-.tabs li a:hover .tipbut_icon{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -416px -34px;width:21px;height:21px;top:9px;transition:ease-in-out 0.3s all;
+.tabs li a:hover .tipbut_icon{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -416px -34px;width:21px;height:21px;top:9px;transition:ease-in-out 0.3s all;
 -moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;
 -webkit-transition:ease-in-out 0.3s all;}
-.tabs li a.selected .tipbut_icon{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -416px -34px;width:21px;height:21px;top:9px;}
+.tabs li a.selected .tipbut_icon{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -416px -34px;width:21px;height:21px;top:9px;}
 /**/
 .wrapper {background-color: #fff;width:965px;padding-bottom:55px;margin:auto;overflow:hidden;position:absolute;padding-right:15px;}
 .carousel{position:relative;left:10px;}
 .carousel img {float: left;border:2px  solid #e5e5e5}
 .carousel img:hover{opacity:0.8}
-.carousel a{float:left;margin-right:5px;width:233px;height:120px;background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -2px -73px;text-align:center;line-height:116px;padding-top:5px;padding-left:5px;}
+.carousel a{float:left;margin-right:5px;width:233px;height:120px;background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -2px -73px;text-align:center;line-height:116px;padding-top:5px;padding-left:5px;}
 #view2{position:absolute;margin-top:-20px;}
 #view3{position:absolute;margin-top:-20px;}
 #view4{position:absolute;margin-top:-20px;}
 /*last 10 posts*/
 .marquee{-webkit-animation-name:marquee;-webkit-animation-timing-function: linear;-webkit-animation-duration:15s;-webkit-animation-iteration-count:infinite;-moz-animation-name: marquee;-moz-animation-timing-function: linear;-moz-animation-duration:15s;-moz-animation-iteration-count: infinite;
-animation-name: marquee;animation-timing-function: linear;animation-duration:15s;animation-iteration-count: infinite;margin: 0;padding: 0;overflow: hidden;display:block;white-space:nowrap;z-index:100;font:bold 12px/45px 'Droid Arabic Kufi', tahoma;text-shadow:1px 0px 0px #d7d7d7;color:#a378ba}
-.marquee a{color:#a378ba;text-decoration:none;padding:0px 7px 0px 7px;}
+animation-name: marquee;animation-timing-function: linear;animation-duration:15s;animation-iteration-count: infinite;margin: 0;padding: 0;overflow: hidden;display:block;white-space:nowrap;z-index:100;font:bold 12px/45px 'Droid Arabic Kufi', tahoma;text-shadow:1px 0px 0px #d7d7d7;color:#cd474d}
+.marquee a{color:#cd474d;text-decoration:none;padding:0px 7px 0px 7px;}
 @keyframes marquee{0%{text-indent: 95%;}110%{text-indent: -20%;  }}
 @-moz-keyframes marquee{0%{text-indent: 95%;}100%{text-indent: -20%;  }}
 @-webkit-keyframes marquee{0%{text-indent: 95%;}100%{text-indent: -20%;  }}
 .marquee:hover{-webkit-animation-play-state:paused;animation-play-state:paused;-moz-animation-play-state:paused;}
 .last-10-posts{width:98%;height:45px;background:#fbfbfb;box-shadow:0px 0px 1px #f3f3f3;border:1px solid #d7d7d7;position:relative;margin:auto;overflow:hidden;
 margin-top:10px;}
-.last-10-posts-head{background:#bb99cd;height:45px;float:right;width:143px;z-index:99;box-shadow:0px 0px 3px #000;
+.last-10-posts-head{background:#d54c52;height:45px;float:right;width:143px;z-index:99;box-shadow:0px 0px 3px #000;
 font:bold 14px/45px 'Droid Arabic Kufi', tahoma;color:#FFF;text-shadow:1px 0px 1px #727272; white-space:nowrap;}
-.last-10-posts-icon{float:right;margin-right:5px;background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -438px -11px;width:24px;height:17px;position:relative;
+.last-10-posts-icon{float:right;margin-right:5px;background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -438px -11px;width:24px;height:17px;position:relative;
 top:14px;right:7px;margin-right:6px;}
-.last-10-posts-head:after{border:10px solid transparent;border-right-color:#bb99cd;width:0px;height:0px;position:absolute;
+.last-10-posts-head:after{border:10px solid transparent;border-right-color:#d54c52;width:0px;height:0px;position:absolute;
 margin-top:13px;margin-right:13px;z-index:98;;content:"";}
 /*sid bar*/
 .browsers-download{height:92px;position:fixed;left:-24px;top:210px;z-index:50}
 .brosers-download-cont{border:1px solid #d7d7d7;width:190px;background:#FFF;height:90px;padding:0px 10px 0px 10px;z-index:50;display:none;}
-.browsers-show-hide{float:right;background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -240px -85px;width:25px;height:92px;
+.browsers-show-hide{float:right;background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -240px -85px;width:25px;height:92px;
 position:relative;right:-24px;margin-top:5px;cursor:pointer;z-index:50}
 .brosers-download-cont span{float:right;margin-right:10px;margin-top:5px;position:relative;top:5px;width:33px;height:32px;right:-15px;}
-.Google-Chrome{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -447px -137px;}
-.Firefox{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -406px -138px;}
-.Internet-Explorer{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -368px -137px;}
-.Maxthon{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -330px -138px;}
-.Safari{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -602px -138px;}
-.RockMelt{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -562px -138px;}
-.Opera{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -519px -138px;}
-.Netscape{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -485px -138px;}
+.Google-Chrome{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -447px -137px;}
+.Firefox{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -406px -138px;}
+.Internet-Explorer{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -368px -137px;}
+.Maxthon{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -330px -138px;}
+.Safari{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -602px -138px;}
+.RockMelt{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -562px -138px;}
+.Opera{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -519px -138px;}
+.Netscape{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -485px -138px;}
 /**/
 .colors-switch{min-width:0px;height:72px;position:fixed;top:305px;left:0;z-index:50}
 .colors-switch-cont{border:1px solid #d7d7d7;width:155px;background:#FFF;height:60px;padding:7px 10px 2px 10px;text-align:center;
 z-index:50;display:none;}
-.color-switch-show-hide{float:right;background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -297px -93px;width:25px;height:76px;
+.color-switch-show-hide{float:right;background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -297px -93px;width:25px;height:76px;
 position:relative;margin-right:-25px;margin-top:3px;cursor:pointer;z-index:50}
 .colors-switch-cont a{padding:10px;margin-right:5px;margin-top:5px;float:right;}
 /**/
 .social-media-follow{min-width:0px;height:72px;position:fixed;top:380px;left:0;z-index:50}
 .social-media-follow-cont{border:1px solid #d7d7d7;width:155px;background:#FFF;height:76px;position:relative;padding:0px 10px 3px 10px;display:none;}
-.social-media-follow-show-hide{float:right;background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -269px -93px;width:25px;height:76px;z-index:50;position:absolute;margin-right:-25px;margin-top:7px;cursor:pointer;}
+.social-media-follow-show-hide{float:right;background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -269px -93px;width:25px;height:76px;z-index:50;position:absolute;margin-right:-25px;margin-top:7px;cursor:pointer;}
 .social-media-follow-cont span{float:right;margin-right:5px;margin-top:5px;width:31px;height:32px;z-index:50;position:relative;}
-.soical-mf-facebook{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -440px -63px;transition:ease-in-out 0.3s all;
+.soical-mf-facebook{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -440px -63px;transition:ease-in-out 0.3s all;
 -moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;
 -webkit-transition:ease-in-out 0.3s all;}
-.soical-mf-google-pluse{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -403px -63px;transition:ease-in-out 0.3s all;
+.soical-mf-google-pluse{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -403px -63px;transition:ease-in-out 0.3s all;
 -moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;
 -webkit-transition:ease-in-out 0.3s all;}
-.soical-mf-youtube{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -366px -63px;transition:ease-in-out 0.3s all;
+.soical-mf-youtube{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -366px -63px;transition:ease-in-out 0.3s all;
 -moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;
 -webkit-transition:ease-in-out 0.3s all;}
-.soical-mf-tumblr{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -330px -63px;transition:ease-in-out 0.3s all;
+.soical-mf-tumblr{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -330px -63px;transition:ease-in-out 0.3s all;
 -moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;
 -webkit-transition:ease-in-out 0.3s all;}
-.soical-mf-twitter{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -585px -63px;transition:ease-in-out 0.3s all;
+.soical-mf-twitter{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -585px -63px;transition:ease-in-out 0.3s all;
 -moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;
 -webkit-transition:ease-in-out 0.3s all;}
-.soical-mf-rss{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -548px -63px;transition:ease-in-out 0.3s all;
+.soical-mf-rss{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -548px -63px;transition:ease-in-out 0.3s all;
 -moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;
 -webkit-transition:ease-in-out 0.3s all;}
-.soical-mf-deviantart{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -511px -63px;transition:ease-in-out 0.3s all;
+.soical-mf-deviantart{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -511px -63px;transition:ease-in-out 0.3s all;
 -moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;
 -webkit-transition:ease-in-out 0.3s all;}
-.soical-mf-flickr{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -475px -63px;transition:ease-in-out 0.3s all;
+.soical-mf-flickr{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -475px -63px;transition:ease-in-out 0.3s all;
 -moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;
 -webkit-transition:ease-in-out 0.3s all;}
-.soical-mf-facebook:hover{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -440px -101px;transition:ease-in-out 0.3s all;
+.soical-mf-facebook:hover{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -440px -101px;transition:ease-in-out 0.3s all;
 -moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;
 -webkit-transition:ease-in-out 0.3s all;}
-.soical-mf-google-pluse:hover{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -403px -101px;transition:ease-in-out 0.3s all;
+.soical-mf-google-pluse:hover{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -403px -101px;transition:ease-in-out 0.3s all;
 -moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;
 -webkit-transition:ease-in-out 0.3s all;}
-.soical-mf-youtube:hover{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -366px -101px;transition:ease-in-out 0.3s all;
+.soical-mf-youtube:hover{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -366px -101px;transition:ease-in-out 0.3s all;
 -moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;
 -webkit-transition:ease-in-out 0.3s all;}
-.soical-mf-tumblr:hover{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -330px -101px;transition:ease-in-out 0.3s all;
+.soical-mf-tumblr:hover{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -330px -101px;transition:ease-in-out 0.3s all;
 -moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;
 -webkit-transition:ease-in-out 0.3s all;}
-.soical-mf-twitter:hover{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -585px -101px;transition:ease-in-out 0.3s all;
+.soical-mf-twitter:hover{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -585px -101px;transition:ease-in-out 0.3s all;
 -moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;
 -webkit-transition:ease-in-out 0.3s all;}
-.soical-mf-rss:hover{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -548px -101px;transition:ease-in-out 0.3s all;
+.soical-mf-rss:hover{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -548px -101px;transition:ease-in-out 0.3s all;
 -moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;
 -webkit-transition:ease-in-out 0.3s all;}
-.soical-mf-deviantart:hover{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -511px -101px;transition:ease-in-out 0.3s all;
+.soical-mf-deviantart:hover{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -511px -101px;transition:ease-in-out 0.3s all;
 -moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;
 -webkit-transition:ease-in-out 0.3s all;}
-.soical-mf-flickr:hover{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -475px -101px;transition:ease-in-out 0.3s all;
+.soical-mf-flickr:hover{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -475px -101px;transition:ease-in-out 0.3s all;
 -moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;
 -webkit-transition:ease-in-out 0.3s all;}
 /**/
@@ -277,23 +279,23 @@ font-family:'Droid Arabic Kufi',tahoma;position:relative;padding-right:25px;marg
 .navbi:hover a{color:#f1f1f1;}
 .navbi:hover:after{border:19px solid transparent;border-right-color:#333;width:0px;height:0px;content: ' ';
 position:absolute;top:0px;right:100%;z-index:98}
-.navbar_icon{padding:0px 24px 0px 0px;width:24px;height:22px;background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -440px -33px;transition:ease-in-out 0.3s all;
+.navbar_icon{padding:0px 24px 0px 0px;width:24px;height:22px;background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -440px -33px;transition:ease-in-out 0.3s all;
 -moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;
 -webkit-transition:ease-in-out 0.3s all;}
-.navbi:hover .navbar_icon{padding:0px 24px 0px 0px;width:24px;height:22px;background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -466px -33px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;
+.navbi:hover .navbar_icon{padding:0px 24px 0px 0px;width:24px;height:22px;background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -466px -33px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;
 -webkit-transition:ease-in-out 0.3s all;}
 /**/
 /*forums*/
-.forums-itch-cont{width:95%;margin:auto;background:#f3f3f3;border:4px solid #a17fb3;box-shadow:0px 0px 5px #c3c3c3;padding:0px 0px 0px 0px;}
+.forums-itch-cont{width:95%;margin:auto;background:#f3f3f3;border:4px solid #b74146;box-shadow:0px 0px 5px #c3c3c3;padding:0px 0px 0px 0px;}
 .forums-arrow{position:absolute}
 .forums-arrow:before{border:19px solid transparent;border-bottom-color:#fefefe;width:0px;height:0px;content: ' ';position:absolute;
 z-index:98;margin-top:25px;margin-right:70px;}
-.forums-itch-head{width:100%;background:#bb99cd;height:53px;border-top:2px solid #a17fb3;}
-.forums-itch-head-left{position:relative;background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -2px -200px;width:11px;height:68px;float:left;left:-10px;top:-6px;} 
-.forums-itch-head-right{position:relative;background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -16px -200px;width:11px;height:68px;float:right;right:-10px;top:-6px;} 
+.forums-itch-head{width:100%;background:#d54c52;height:53px;border-top:2px solid #b74146;}
+.forums-itch-head-left{position:relative;background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -2px -200px;width:11px;height:68px;float:left;left:-10px;top:-6px;} 
+.forums-itch-head-right{position:relative;background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -16px -200px;width:11px;height:68px;float:right;right:-10px;top:-6px;} 
 .forums-itch-head-title{font:bold 15px/53px 'Droid Arabic Kufi', tahoma;float:right;padding-right:7px;margin-right:7px;color:white;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;white-space:nowrap}
-.forums-itch-head-title-icon{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -30px -200px;width:27px;height:22px;float:right;position:relative;top:14px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
-.forums-itch-head-title:hover .forums-itch-head-title-icon{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -30px -228px;width:27px;height:22px;float:right;position:relative;top:14px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;
+.forums-itch-head-title-icon{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -30px -200px;width:27px;height:22px;float:right;position:relative;top:14px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.forums-itch-head-title:hover .forums-itch-head-title-icon{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -30px -228px;width:27px;height:22px;float:right;position:relative;top:14px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;
 -webkit-transition:ease-in-out 0.3s all;}
 .forums-itch-head-title:hover{padding-right:10px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
 .forums-itch-head img{float:left;margin-left:10px;margin-top:14px;}
@@ -303,35 +305,35 @@ z-index:98;margin-top:25px;margin-right:70px;}
 .forums-nei-td-img {padding:5px;width:102px;}
 .forums-nei-td-img img{padding:2px;border:1px solid #eeeeee;border-radius:5px;}
 .forums-nei-td-alt{padding:5px;min-height:113px;width:95%;clear:both}
-.forum-td-alt-title,.forum-td-alt-title a{font:bold 14px 'Droid Arabic Kufi', tahoma;color:#bb99cd;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
-.forum-td-alt-title-icon{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -61px -201px;width:24px;height:22px;float:right;position:relative;top:5px;
+.forum-td-alt-title,.forum-td-alt-title a{font:bold 14px 'Droid Arabic Kufi', tahoma;color:#d54c52;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.forum-td-alt-title-icon{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -61px -201px;width:24px;height:22px;float:right;position:relative;top:5px;
 transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
 .forum-td-alt-title a:hover{padding-right:3px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
 .forum-td-alt-title:hover .forum-td-alt-title-icon{transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;opacity:0.4;}
 .forum-td-alt-dec{position:relative;top:-4px;font:normal 12px 'Droid Arabic Kufi', tahoma;color:#cacaca;
 transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;
 -webkit-transition:ease-in-out 0.3s all;}
-.forum-td-alt-dec-icon{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -88px -203px;width:18px;height:17px;float:right;position:relative;top:0px;
+.forum-td-alt-dec-icon{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -88px -203px;width:18px;height:17px;float:right;position:relative;top:0px;
 transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;margin-right:22px;}
 .forum-td-alt-dec:hover{padding-right:5px;color:#8d8d8d;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all}
-.forum-td-alt-dec:hover .forum-td-alt-dec-icon{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -88px -232px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all}
+.forum-td-alt-dec:hover .forum-td-alt-dec-icon{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -88px -232px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all}
 .forum-td-alt-title-dec{float:right;width:470px;margin-top:5px;}
 .forums-nei-td-alt-counts-bottons{float:left;position:relative;top:-5px;left:2px;width:310px;}
-.th-po-counts{float:left;width:153px;height:28px;border:1px solid #eeeeee;background:#fafafa;font:bold 12px/28px 'Droid Arabic Kufi', tahoma;text-align:center;margin-top:3px;border-right:5px solid #bb99cd;color:#bb99cd;margin-left:5px;}
+.th-po-counts{float:left;width:153px;height:28px;border:1px solid #eeeeee;background:#fafafa;font:bold 12px/28px 'Droid Arabic Kufi', tahoma;text-align:center;margin-top:3px;border-right:5px solid #d54c52;color:#d54c52;margin-left:5px;}
 /*subs-mod*/
-.mod-subs{float:left;width:134px;height:30px;border:1px solid #eeeeee;background:#fafafa;font:bold 12px/28px 'Droid Arabic Kufi', tahoma;text-align:center;margin-top:3px;border-right:5px solid #bb99cd;color:#bb99cd;margin-left:5px;cursor:pointer;white-space:nowrap}
-.mod-botton-icon{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -306px -204px;width:21px;height:19px;position:relative;float:right;right:5px;top:5px;}
-.subs-botton-icon{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -287px -205px;width:17px;height:14px;position:relative;float:right;right:5px;top:6px;}
+.mod-subs{float:left;width:134px;height:30px;border:1px solid #eeeeee;background:#fafafa;font:bold 12px/28px 'Droid Arabic Kufi', tahoma;text-align:center;margin-top:3px;border-right:5px solid #d54c52;color:#d54c52;margin-left:5px;cursor:pointer;white-space:nowrap}
+.mod-botton-icon{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -306px -204px;width:21px;height:19px;position:relative;float:right;right:5px;top:5px;}
+.subs-botton-icon{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -287px -205px;width:17px;height:14px;position:relative;float:right;right:5px;top:6px;}
 .subs-mod-menus{list-style-type:none;margin:auto;position:absolute;padding:10px 0px;background:#FFF;border:1px solid #ebebeb;border-radius:7px;
 text-align:right;height:auto;z-index:100;display:none;}
 .mod-subs:hover >.subs-mod-menus{display:block;}
 .subs-mod-menus li:last-child{border-bottom:0px solid #ebebeb;}
-.subs-mod-menus_icon{float:right;width:11px;height:13px;background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -273px -38px;margin-top:8px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.subs-mod-menus_icon{float:right;width:11px;height:13px;background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -273px -38px;margin-top:8px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
 .subs-mod-menus li{font:normal 12px/30px tahoma;margin:0px 0px 0px 0px;border-bottom:1px solid #ebebeb;
 padding:0px 10px;height:30px;float:inherit;text-align:center;}
-.subs-mod-menus li a{color:#bb99cd;padding:0px 5px 0px 0px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.subs-mod-menus li a{color:#d54c52;padding:0px 5px 0px 0px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
 .subs-mod-menus li:hover a{color:#333;padding:0px 10px 0px 0px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
-.subs-mod-menus li:hover .first_dropmenu_icon{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -273px -21px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.subs-mod-menus li:hover .first_dropmenu_icon{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -273px -21px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
 .subs-mod-menus:after{border:10px solid transparent;border-bottom-color:#FFF;width:0px;height:0px;content: ' ';
 position:absolute;top:0;margin-top:-20px;right:0;margin-right:50%;z-index:1001;}
 .subs-mod-menus:before{border:11px solid transparent;border-bottom-color:#ebebeb;width:0px;height:0px;content: ' ';
@@ -340,55 +342,55 @@ position:absolute;top:0;margin-top:-22px;right:0;margin-right:49.1%;z-index:1001
 /*last postinfo*/
 .last-post-info-box{width:99%;height:34px;background:#fafafa;border-radius:3px;border:1px solid #eeeeee;clear:both;}
 .last-post-info-box span{margin-right:5px;font:normal 12px/34px 'Droid Arabic Kufi', tahoma;color:#a9a9a9;float:right;}
-.last-post-info-box span a{color:#bb99cd;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.last-post-info-box span a{color:#d54c52;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
 .last-post-info-box span a:hover{padding-right:5px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
-.last-post-info-post-icon{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -181px -202px;width:25px;height:18px;floaT:right;position:relative;top:7px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
-.last-post-info-box span:hover .last-post-info-post-icon{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -181px -231px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
-.last-post-info-postbyx-icon{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -209px -199px;width:22px;height:22px;floaT:right;position:relative;top:5px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
-.last-post-info-postbyx:hover .last-post-info-postbyx-icon{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -209px -228px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
-.last-post-info-post-time-icon{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -236px -201px;width:21px;height:21px;floaT:right;position:relative;top:6px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
-.last-post-info-post-time:hover .last-post-info-post-time-icon{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -236px -230px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
-.last-post-info-online-icon{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -261px -201px;width:21px;height:21px;floaT:right;position:relative;top:6px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
-.last-post-info-online:hover .last-post-info-online-icon{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -261px -230px;width:21px;height:21px;floaT:right;position:relative;top:6px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
-.last-post-info-go-last-post-icon{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -157px -201px;width:20px;height:20px;floaT:left;position:relative;top:6px;
+.last-post-info-post-icon{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -181px -202px;width:25px;height:18px;floaT:right;position:relative;top:7px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.last-post-info-box span:hover .last-post-info-post-icon{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -181px -231px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.last-post-info-postbyx-icon{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -209px -199px;width:22px;height:22px;floaT:right;position:relative;top:5px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.last-post-info-postbyx:hover .last-post-info-postbyx-icon{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -209px -228px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.last-post-info-post-time-icon{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -236px -201px;width:21px;height:21px;floaT:right;position:relative;top:6px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.last-post-info-post-time:hover .last-post-info-post-time-icon{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -236px -230px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.last-post-info-online-icon{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -261px -201px;width:21px;height:21px;floaT:right;position:relative;top:6px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.last-post-info-online:hover .last-post-info-online-icon{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -261px -230px;width:21px;height:21px;floaT:right;position:relative;top:6px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.last-post-info-go-last-post-icon{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -157px -201px;width:20px;height:20px;floaT:left;position:relative;top:6px;
 right:20px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
-.last-post-info-search-icon{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -132px -203px;width:17px;height:17px;floaT:left;position:relative;top:7px;right:20px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
-.last-post-info-rss-icon{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -111px -203px;width:15px;height:15px;floaT:left;position:relative;top:8px;right:20px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
-.last-post-info-search-icon:hover{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -132px -232px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
-.last-post-info-go-last-post-icon:hover{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -157px -230px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
-.last-post-info-rss-icon:hover{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -111px -232px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.last-post-info-search-icon{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -132px -203px;width:17px;height:17px;floaT:left;position:relative;top:7px;right:20px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.last-post-info-rss-icon{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -111px -203px;width:15px;height:15px;floaT:left;position:relative;top:8px;right:20px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.last-post-info-search-icon:hover{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -132px -232px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.last-post-info-go-last-post-icon:hover{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -157px -230px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.last-post-info-rss-icon:hover{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -111px -232px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
 /**/
-.forums-itch-head-title-icon2{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -330px -197px;width:25px;height:25px;float:right;position:relative;top:10px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
-.forums-itch-head-title:hover .forums-itch-head-title-icon2{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -330px -228px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;
+.forums-itch-head-title-icon2{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -330px -197px;width:25px;height:25px;float:right;position:relative;top:10px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.forums-itch-head-title:hover .forums-itch-head-title-icon2{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -330px -228px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;
 -webkit-transition:ease-in-out 0.3s all;}
 .stats-counts-box{height:37px;font:bold 14px/37px 'Droid Arabic Kufi', tahoma;padding:0px 10px;color:#d8d8d8;border-top:1px solid #e7e7e7}
 .stats-counts-box span{float:right;margin-right:10px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
-.online-now-counts{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -359px -197px;float:right;position:relative;width:31px;height:25px;top:4px;white-space:nowrap;}
-.online-now-counts-icon{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -359px -197px;float:right;position:relative;width:31px;height:25px;top:4px;}
-.site-Theard-counts-icon{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -396px -197px;float:right;position:relative;width:31px;height:25px;top:5px;}
-.site-posts-counts-icon{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -431px -196px;float:right;position:relative;width:35px;height:27px;top:5px;}
-.site-members-counts-icon{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -469px -195px;float:right;position:relative;width:29px;height:27px;top:5px;}
+.online-now-counts{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -359px -197px;float:right;position:relative;width:31px;height:25px;top:4px;white-space:nowrap;}
+.online-now-counts-icon{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -359px -197px;float:right;position:relative;width:31px;height:25px;top:4px;}
+.site-Theard-counts-icon{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -396px -197px;float:right;position:relative;width:31px;height:25px;top:5px;}
+.site-posts-counts-icon{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -431px -196px;float:right;position:relative;width:35px;height:27px;top:5px;}
+.site-members-counts-icon{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -469px -195px;float:right;position:relative;width:29px;height:27px;top:5px;}
 /**/
 .stats-counts-soans{white-space:nowrap;}
-.stats-counts-soans:hover .online-now-counts-icon{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -359px -228px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
-.stats-counts-soans:hover .site-Theard-counts-icon{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -396px -228px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
-.stats-counts-soans:hover .site-posts-counts-icon{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -431px -227px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
-.stats-counts-soans:hover .site-members-counts-icon{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -469px -226px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.stats-counts-soans:hover .online-now-counts-icon{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -359px -228px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.stats-counts-soans:hover .site-Theard-counts-icon{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -396px -228px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.stats-counts-soans:hover .site-posts-counts-icon{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -431px -227px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.stats-counts-soans:hover .site-members-counts-icon{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -469px -226px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
 .welcome-our-new-member{width:95%;margin:auto;background:#fbfbfb;box-shadow:0px 0px 1px #f3f3f3;border:1px solid #d7d7d7;height:45px;position:relative;
 margin-top:0px;}
-.welcome-our-new-member-title{padding:0px 10px;background:#bb99cd;font:bold 14px/45px 'Droid Arabic Kufi', tahoma;float:right;height:45px;color:#FFF;white-space:nowrap}
-.welcome-our-new-member-icon{float:right;background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -504px -226px;width:33px;height:30px;position:relative;top:7px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
-.welcome-our-new-member-title:hover .welcome-our-new-member-icon{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -504px -190px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
-.welcome-our-new-member-title:after{border:23px solid transparent;border-right-color:#bb99cd;width:0px;height:0px;content: ' ';position:absolute;z-index:98;margin-right:10px;}
-.welcome-new-member,.welcome-new-member a{color:#bb99cd;font:bold 14px/45px 'Droid Arabic Kufi', tahoma;border-left:0px solid #000;}
+.welcome-our-new-member-title{padding:0px 10px;background:#d54c52;font:bold 14px/45px 'Droid Arabic Kufi', tahoma;float:right;height:45px;color:#FFF;white-space:nowrap}
+.welcome-our-new-member-icon{float:right;background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -504px -226px;width:33px;height:30px;position:relative;top:7px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.welcome-our-new-member-title:hover .welcome-our-new-member-icon{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -504px -190px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.welcome-our-new-member-title:after{border:23px solid transparent;border-right-color:#d54c52;width:0px;height:0px;content: ' ';position:absolute;z-index:98;margin-right:10px;}
+.welcome-new-member,.welcome-new-member a{color:#d54c52;font:bold 14px/45px 'Droid Arabic Kufi', tahoma;border-left:0px solid #000;}
 /*postbit*/
-.toolbar-showtheard{width:98%;height:40px;font:bold 12px/40px 'Droid Arabic Kufi', tahoma;margin:auto;background:#a17fb3;border:1px solid #f8f7f7;
+.toolbar-showtheard{width:98%;height:40px;font:bold 12px/40px 'Droid Arabic Kufi', tahoma;margin:auto;background:#b74146;border:1px solid #f8f7f7;
 box-shadow:0px 0px 5px #cfcfcf;padding:0px 5px;clear:both;}
 .toolbar-showtheard a{color:#FFF;}
 .toolbar-showtheard a:hover{text-shadow:0px 0px 2px #FFF;cursor:pointer;}
-.theard-name-icon{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -541px -200px;float:right;width:14px;height:15px;position:relative;top:12px;}
+.theard-name-icon{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -541px -200px;float:right;width:14px;height:15px;position:relative;top:12px;}
 .toolbar-showtheard-buttons{border-right:1px solid #8c679f;padding: 3px 6px 3px 6px;white-space: nowrap;}
-.toolbar-showtheard-buttons-icon{float:left;background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -318px -179px;width:12px;height:11px;position:relative;top:15px;
+.toolbar-showtheard-buttons-icon{float:left;background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -318px -179px;width:12px;height:11px;position:relative;top:15px;
 right:3px;}
 /**/
 .postbit-box{width:99%;padding:0px 0px;background:#fcfcfc;border:2px solid #c6c6c6;box-shadow:0px 0px 5px #e2e2e2;margin:auto;clear:both;margin-top:5px;overflow:hidden;text-align:center;position:relative;}
@@ -398,58 +400,58 @@ text-align:right;clear:both;}
 .postbit-thead a{color:#FFF;padding:0px 5px}
 .postbit-thead a:hover{text-shadow:0px 0px 2px #FFF;cursor:pointer;}
 .postbit-post-time{float:left;}
-.postbit-post-time-icon{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -296px -175px;float:left;width:17px;height:17px;position:relative;top:10px;left:-2px;}
-.postbit-post-number-icon{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -266px -173px;float:left;width:27px;height:22px;position:relative;top:10px;left:-2px;}
+.postbit-post-time-icon{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -296px -175px;float:left;width:17px;height:17px;position:relative;top:10px;left:-2px;}
+.postbit-post-number-icon{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -266px -173px;float:left;width:27px;height:22px;position:relative;top:10px;left:-2px;}
 .postbit-member-info{width:99%;height:200px;border-bottom:2px solid #e4e4e4;margin:auto;text-align:right;}
 .postbit-arrow{position:absolute;}
 .postbit-arrow:after{border:23px solid transparent;border-top-color:#fcfcfc;width:0px;height:0px;content: ' ';
 position:absolute;z-index:98;margin-top:198px;margin-right:86px;}
 .postbit-arrow:before{border:23px solid transparent;border-top-color:#e4e4e4;width:0px;height:0px;content: ' ';
 position:absolute;z-index:98;margin-top:200px;margin-right:86px;}
-.postbit-member-avatar-img{width:170px;height:178px;border:3px solid #a17fb3;position:relative;top:10px;right:15px;overflow:hidden;float:right;}
+.postbit-member-avatar-img{width:170px;height:178px;border:3px solid #b74146;position:relative;top:10px;right:15px;overflow:hidden;float:right;}
 .postbit-member-info-part1{float:right;position:relative;right:40px;top:20px;text-align:center;}
-.postbit-member-name{font:bold 16px 'Droid Arabic Kufi', tahoma;color:#a17fb3;padding:0px 5px;border-bottom:1px solid #e4e4e4;}
-.postbit-member-nakename{font:normal 12px 'Droid Arabic Kufi', tahoma;color:#a17fb3;padding:0px 5px;}
-.member-info-awards-icon{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -669px -198px;float:right;width:17px;height:25px;position:relative;right:7px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
-.member-info-priv-msg-icon{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -628px -202px;float:right;width:25px;height:19px;position:relative;right:22px;top:5px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
-.member-info-profile-icon{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -595px -201px;float:right;width:23px;height:21px;position:relative;right:33px;top:3px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
-.member-info-posts-icon{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -563px -203px;float:right;width:19px;height:18px;position:relative;right:45px;top:5px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
-.member-info-awards-icon:hover{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -669px -228px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
-.member-info-priv-msg-icon:hover{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -628px -232px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
-.member-info-profile-icon:hover{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -595px -231px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
-.member-info-posts-icon:hover{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -563px -233px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.postbit-member-name{font:bold 16px 'Droid Arabic Kufi', tahoma;color:#b74146;padding:0px 5px;border-bottom:1px solid #e4e4e4;}
+.postbit-member-nakename{font:normal 12px 'Droid Arabic Kufi', tahoma;color:#b74146;padding:0px 5px;}
+.member-info-awards-icon{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -669px -198px;float:right;width:17px;height:25px;position:relative;right:7px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.member-info-priv-msg-icon{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -628px -202px;float:right;width:25px;height:19px;position:relative;right:22px;top:5px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.member-info-profile-icon{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -595px -201px;float:right;width:23px;height:21px;position:relative;right:33px;top:3px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.member-info-posts-icon{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -563px -203px;float:right;width:19px;height:18px;position:relative;right:45px;top:5px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.member-info-awards-icon:hover{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -669px -228px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.member-info-priv-msg-icon:hover{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -628px -232px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.member-info-profile-icon:hover{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -595px -231px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.member-info-posts-icon:hover{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -563px -233px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
 /**/
-.member-info-fb-icon{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -142px -293px;width:31px;height:32px;float:right;position:relative;margin-top:0px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all}
-.member-twitter-icon{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -104px -293px;width:31px;height:32px;float:right;position:relative;margin-top:0px;right:5px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all}
-.member-info-utube-icon{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -68px -293px;width:31px;height:32px;float:right;position:relative;margin-top:0px;right:10px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all}
-.member-devintart-icon{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -33px -292px;width:31px;height:32px;float:right;position:relative;margin-top:0px;right:15px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all}
-.member-info-fb-icon:hover{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -142px -258px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all}
-.member-twitter-icon:hover{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -104px -258px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all}
-.member-info-utube-icon:hover{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -68px -258px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all}
-.member-devintart-icon:hover{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -33px -257px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all}
+.member-info-fb-icon{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -142px -293px;width:31px;height:32px;float:right;position:relative;margin-top:0px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all}
+.member-twitter-icon{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -104px -293px;width:31px;height:32px;float:right;position:relative;margin-top:0px;right:5px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all}
+.member-info-utube-icon{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -68px -293px;width:31px;height:32px;float:right;position:relative;margin-top:0px;right:10px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all}
+.member-devintart-icon{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -33px -292px;width:31px;height:32px;float:right;position:relative;margin-top:0px;right:15px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all}
+.member-info-fb-icon:hover{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -142px -258px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all}
+.member-twitter-icon:hover{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -104px -258px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all}
+.member-info-utube-icon:hover{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -68px -258px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all}
+.member-devintart-icon:hover{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -33px -257px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all}
 /**/
-.member-info-on-icon{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -539px -4px;width:25px;height:25px;float:right;position:relative;right:5px;top:5px;}
-.member-info-off-icon{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -539px -32px;width:25px;height:25px;float:right;position:relative;right:5px;top:5px;}
-.member-warning-icon{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -501px -4px;width:28px;height:25px;float:right;position:relative;right:13px;top:5px;}
-.member-info-ip-icon{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -471px -4px;width:15px;height:25px;float:right;position:relative;right:42px;top:5px;}
-.member-addfrinde-icon{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -504px -35px;width:21px;height:21px;float:right;position:relative;right:23px;top:8px;}
+.member-info-on-icon{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -539px -4px;width:25px;height:25px;float:right;position:relative;right:5px;top:5px;}
+.member-info-off-icon{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -539px -32px;width:25px;height:25px;float:right;position:relative;right:5px;top:5px;}
+.member-warning-icon{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -501px -4px;width:28px;height:25px;float:right;position:relative;right:13px;top:5px;}
+.member-info-ip-icon{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -471px -4px;width:15px;height:25px;float:right;position:relative;right:42px;top:5px;}
+.member-addfrinde-icon{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -504px -35px;width:21px;height:21px;float:right;position:relative;right:23px;top:8px;}
 .postbit-member-info-part2{float:left;position:relative;left:10px;top:20px;width:200px;}
 .postbit-member-info-part3{float:left;position:relative;left:30px;top:20px;width:200px;}
 .member-info-edit{background:#fbfbfb;width:200px;height:28px;font:bold 10px/28px 'Droid Arabic Kufi', tahoma;border:1px solid #ebebeb;
-border-right:4px solid #a17fb3;float:left;margin-top:3px;color:#999999;}
-.member-info-edit-icon{float:right;width:10px;height:10px;position:relative;background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -543px -240px;top:9px;right:3px;}
+border-right:4px solid #b74146;float:left;margin-top:3px;color:#999999;}
+.member-info-edit-icon{float:right;width:10px;height:10px;position:relative;background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -543px -240px;top:9px;right:3px;}
 .member-info-edit img{position:relative;top:3px;}
 /******/
 .postbit-legacy-box{width:99%;padding:0px 0px;background:#fcfcfc;border:2px solid #c6c6c6;box-shadow:0px 0px 5px #e2e2e2;margin:auto;margin-top:5px;
 overflow:hidden;}
 .postbit-legacy-member-info{width:188px;text-align:center;border-left:2px solid #e4e4e4;text-align:center;clear:both;position:relative;}
 .postbit-legacy-postmsg{width:81%;}
-.postbit-legacy-member-avatar-img{width:170px;height:178px;border:3px solid #a17fb3;position:relative;top:5px;right:4px;overflow:hidden;float:right;}
+.postbit-legacy-member-avatar-img{width:170px;height:178px;border:3px solid #b74146;position:relative;top:5px;right:4px;overflow:hidden;float:right;}
 .postbit-legacy-icons{margin:auto;width:140px;}
 .member-info-edit2{background:#fbfbfb;width:170px;height:28px;font:bold 10px/28px 'Droid Arabic Kufi', tahoma;border:1px solid #ebebeb;
-border-right:4px solid #a17fb3;float:right;margin-top:3px;color:#999999;margin-right:4px;text-align:right;}
+border-right:4px solid #b74146;float:right;margin-top:3px;color:#999999;margin-right:4px;text-align:right;}
 .member-info-edit3{background:#fbfbfb;width:170px;height:28px;font:bold 10px/28px 'Droid Arabic Kufi', tahoma;border:1px solid #ebebeb;
-border-right:4px solid #a17fb3;float:right;margin-top:3px;color:#999999;margin-right:4px;text-align:right;}
+border-right:4px solid #b74146;float:right;margin-top:3px;color:#999999;margin-right:4px;text-align:right;}
 .member-info-edit2 img{position:relative;top:3px;}
 .space-close{height:10px;clear:both;}
 .postbit-legacy-hideinfo{height:200px;display:none;}
@@ -470,80 +472,80 @@ position:absolute;z-index:98;margin-top:80px;margin-right:184px;}
 .quote-box-arrow:before{border:0px solid transparent;border-width:0px 0px 44px 54px;border-bottom-color:#efefef;width:0px;height:0px;content: ' ';
 position:absolute;z-index:98;margin-top:-47px;margin-right:107px;}
 .quote-box-space{width:730px;height:40px;background:transparent;}
-.goto-orignal-post{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -571px -4px;width:22px;height:22px;float:right;position:relative;top:5px;right:0px;}
+.goto-orignal-post{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -571px -4px;width:22px;height:22px;float:right;position:relative;top:5px;right:0px;}
 .goto-orignal-post:hover{opacity:0.4;}
 .quote-by{float:left;margin-left:20px;width:430px;height:30px;padding:0px 10px;border-bottom:1px solid #efefef;font:bold 14px/30px 'Droid Arabic Kufi', tahoma;color:#dcdcdc;text-align:right;}
-.quote-by-icon{float:right;background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -571px -38px;width:22px;height:16px;position:relative;top:7px;}
+.quote-by-icon{float:right;background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -571px -38px;width:22px;height:16px;position:relative;top:7px;}
 /**/
 .postbit-buttons{width:100%;height:40px;border-top:1px solid #e4e4e4;}
-.postbit-buttons-but{float:left;margin:5px 0px 0px 5px;background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -179px -258px;width:117px;height:30px;
+.postbit-buttons-but{float:left;margin:5px 0px 0px 5px;background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -179px -258px;width:117px;height:30px;
 font:bold 12px/30px 'Droid Arabic Kufi', tahoma;color:#FFF;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all}
 .postbit-buttons-buton{float:left;margin:5px 0px 0px 5px;background:#333;width:117px;height:30px;font:bold 12px/30px 'Droid Arabic Kufi', tahoma;color:#FFF;}
-.postbit-buttons-but:hover{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -179px -290px;color:#333;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all}
+.postbit-buttons-but:hover{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -179px -290px;color:#333;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all}
 .postbit-buttons img{float:left;margin:5px 0px 0px 5px;}
-.button-edite-icon{float:right;background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -299px -259px;width:19px;height:15px;position:relative;top:7px;right:25px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all}
-.postbit-buttons-but:hover .button-edite-icon{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -299px -281px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all}
-.button-quote-icon{float:right;background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -412px -263px;width:19px;height:15px;position:relative;top:8px;right:20px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all}
-.postbit-buttons-but:hover .button-quote-icon{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -412px -285px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all}
-.button-q-replay-icon{float:right;background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -437px -261px;width:17px;height:16px;position:relative;top:8px;right:20px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all}
-.postbit-buttons-but:hover .button-q-replay-icon{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -437px -282px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all}
-.button-thnx-icon{float:right;background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -458px -260px;width:18px;height:18px;position:relative;top:6px;right:25px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all}
-.postbit-buttons-but:hover .button-thnx-icon{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -458px -282px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all}
-.button-replaic-icon{float:right;background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -363px -260px;width:20px;height:17px;position:relative;top:6px;right:25px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all}
-.postbit-buttons-but:hover .button-replaic-icon{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -363px -282px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all}
+.button-edite-icon{float:right;background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -299px -259px;width:19px;height:15px;position:relative;top:7px;right:25px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all}
+.postbit-buttons-but:hover .button-edite-icon{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -299px -281px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all}
+.button-quote-icon{float:right;background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -412px -263px;width:19px;height:15px;position:relative;top:8px;right:20px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all}
+.postbit-buttons-but:hover .button-quote-icon{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -412px -285px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all}
+.button-q-replay-icon{float:right;background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -437px -261px;width:17px;height:16px;position:relative;top:8px;right:20px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all}
+.postbit-buttons-but:hover .button-q-replay-icon{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -437px -282px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all}
+.button-thnx-icon{float:right;background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -458px -260px;width:18px;height:18px;position:relative;top:6px;right:25px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all}
+.postbit-buttons-but:hover .button-thnx-icon{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -458px -282px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all}
+.button-replaic-icon{float:right;background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -363px -260px;width:20px;height:17px;position:relative;top:6px;right:25px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all}
+.postbit-buttons-but:hover .button-replaic-icon{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -363px -282px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all}
 /**/
 .q-replay-box{width:900px;padding:20px 20px 15px 20px;background:#fbfbfb;border:1px solid #ededed;border-radius:7px;margin:auto;}
 .q-replay-box2{padding:10px;background:#fefefe;box-shadow:inset 0px 0px 7px #e1e1e1;margin:auto;border-radius:7px;clear:both;}
 .q-replay-box-head{font:bold 14px/20px 'Droid Arabic Kufi', tahoma;height:20px;float:right;margin-right:20px;position:relative;top:-10px;color:#bababa;
 white-space:nowrap;}
-.q-replay-box-head-icon{float:right;background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -437px -282px;width:17px;height:16px;position:relative;top:2px;right:5px}
+.q-replay-box-head-icon{float:right;background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -437px -282px;width:17px;height:16px;position:relative;top:2px;right:5px}
 /**/
-.cont-foter{width:760px;height:52px;border-top:6px solid #b391c5;background:#bb99cd;position:relative;left:5px;}
-.cont-foter-right{float:right;position:relative;width:9px;height:68px;background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -688px -258px;right:-6px;top:-11px;}
-.cont-foter-left{float:left;position:relative;width:54px;height:58px;background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -631px -263px;left:-30px;top:-6px;}
+.cont-foter{width:760px;height:52px;border-top:6px solid #cd474d;background:#d54c52;position:relative;left:5px;}
+.cont-foter-right{float:right;position:relative;width:9px;height:68px;background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -688px -258px;right:-6px;top:-11px;}
+.cont-foter-left{float:left;position:relative;width:54px;height:58px;background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -631px -263px;left:-30px;top:-6px;}
 .cont-foter-black{width:80px;height:48px;background:#3c3c3c;float:left;position:relative;left:-160px;}
-.to-top{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -480px -259px;float:left;position:relative;right:-25px;top:12px;width:28px;height:19px;}
-.cont-foter-black-right{width:45px;height:48px;background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -481px -282px;float:right;position:relative;right:-29px;}
+.to-top{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -480px -259px;float:left;position:relative;right:-25px;top:12px;width:28px;height:19px;}
+.cont-foter-black-right{width:45px;height:48px;background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -481px -282px;float:right;position:relative;right:-29px;}
 /**/
 .cont-foter ul{list-style-type:none;margin:auto;position:relative;right:-30px;}
 .first_menu_li2{float:right;padding:0px 5px;color:#FFF;font:bold 14px/52px 'Droid Arabic Kufi',tahoma;white-space:nowrap;
-border-left:1px solid #a378ba;}
+border-left:1px solid #cd474d;}
 .first_menu_li2 a{color:#FFF;padding:0px 5px 0px 0px;}
-.first_menu_li2:hover{background:#FFF;color:#bb99cd;}
-.first_menu_li2:hover a{color:#bb99cd;}
-.first_menu_li2:last-child{border-left:0px solid #a378ba;}
-.cont-foter ul li:hover .first_ul_icon1{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -35px -43px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
-.cont-foter ul li:hover .first_ul_icon2{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -57px -43px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
-.cont-foter ul li:hover .first_ul_icon8{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -239px -43px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
-.first_ul_icon9{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -596px -2px;float:right;width:39px;height:24px;margin-top:12px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
-.cont-foter ul li:hover .first_ul_icon9{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -596px -32px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
-.first_ul_icon10{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -639px -4px;float:right;width:21px;height:23px;margin-top:13px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
-.cont-foter ul li:hover .first_ul_icon10{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -639px -34px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
-.first_ul_icon11{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -665px -4px;float:right;width:23px;height:23px;margin-top:13px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
-.cont-foter ul li:hover .first_ul_icon11{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -665px -34px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.first_menu_li2:hover{background:#FFF;color:#d54c52;}
+.first_menu_li2:hover a{color:#d54c52;}
+.first_menu_li2:last-child{border-left:0px solid #cd474d;}
+.cont-foter ul li:hover .first_ul_icon1{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -35px -43px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.cont-foter ul li:hover .first_ul_icon2{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -57px -43px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.cont-foter ul li:hover .first_ul_icon8{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -239px -43px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.first_ul_icon9{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -596px -2px;float:right;width:39px;height:24px;margin-top:12px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.cont-foter ul li:hover .first_ul_icon9{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -596px -32px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.first_ul_icon10{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -639px -4px;float:right;width:21px;height:23px;margin-top:13px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.cont-foter ul li:hover .first_ul_icon10{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -639px -34px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.first_ul_icon11{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -665px -4px;float:right;width:23px;height:23px;margin-top:13px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
+.cont-foter ul li:hover .first_ul_icon11{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -665px -34px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
 /**/
 .foter{height:155px;background:#303030;box-shadow:inset 3px 0px 27px #212121;border-top:1px solid #aaaaaa;}
 .about-us{width:240px;height:135px;border-left:1px solid #161616;float:right;padding:7px;margin-top:5px;text-align:right;}
-.foter-title{font:bold 14px/27px 'Droid Arabic Kufi', tahoma;color:#bb99cd;border-bottom:1px solid #161616;float:right;width:100%;white-space:nowrap;
+.foter-title{font:bold 14px/27px 'Droid Arabic Kufi', tahoma;color:#d54c52;border-bottom:1px solid #161616;float:right;width:100%;white-space:nowrap;
 text-align:right;}
-.about-us-icon{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -7px -278px;width:17px;height:17px;float:right;position:relative;top:5px;}
+.about-us-icon{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -7px -278px;width:17px;height:17px;float:right;position:relative;top:5px;}
 .about-us-type{font:normal 10px 'Droid Arabic Kufi', tahoma;color:#FFF;text-align:right;}
 .copyright{width:240px;height:135px;border-left:1px solid #161616;float:right;padding:7px;margin-top:5px;text-align:center;}
 .copyright-type{font:normal 12px  tahoma;color:#FFF;text-align:center;position:relative;top:5px;}
 .import-links{width:287px;height:135px;border-left:1px solid #161616;float:right;padding:7px;margin-top:5px;}
-.foter-links-icon{background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -7px -304px;width:18px;height:18px;float:right;position:relative;top:5px;}
-.import-link{float:right;margin-right:5px;width:127px;height:28px;padding:0px 5px;font:normal 12px/28px 'Droid Arabic Kufi', tahoma;color:#bb99cd;
+.foter-links-icon{background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -7px -304px;width:18px;height:18px;float:right;position:relative;top:5px;}
+.import-link{float:right;margin-right:5px;width:127px;height:28px;padding:0px 5px;font:normal 12px/28px 'Droid Arabic Kufi', tahoma;color:#d54c52;
 text-align:center;background:#f0f0f0;margin-top:5px;border-radius:3px;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
 .import-link:hover{background:#161616;color:#FFF;transition:ease-in-out 0.3s all;-moz-transition:ease-in-out 0.3s all;-o-transition:ease-in-out 0.3s all;-webkit-transition:ease-in-out 0.3s all;}
 .copyright2{width:170px;height:135px;border-left:1px solid #161616;float:right;padding:7px;margin-top:5px;text-align:center;}
-.fnon-logo{float:right;position:relative;width:162px;height:70px;background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -3px -330px;top:20px;right:5px;}
+.fnon-logo{float:right;position:relative;width:162px;height:70px;background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -3px -330px;top:20px;right:5px;}
 /**/
 #login_show2{width:154px;height:38px;font:bold 14px/33px 'Droid Arabic Kufi', tahoma;background:#FFF;float:right;
 border:1px #d7d7d7 solid;border-top:0px #d7d7d7 solid;margin:11px -14px 0px 0px;box-shadow:0px 0px 1px #b4b4b4;cursor:pointer;visibility:hidden}
 .login2{width:346px;height:150px;margin:auto;background:#FFF;border:1px solid #d7d7d7;border-top:0px #d7d7d7 solid;box-shadow:0px 0px 1px #b4b4b4;
 float:right;position:absolute;display:none;margin-right:0px;z-index:100;visibility:hidden}
-#login_hide2{width:19px;height:19px;float:right;margin-right:15px;margin-top:5px;background:url(https://i97.servimg.com/u/f97/19/55/08/62/color810.png) -365px -37px;visibility:hidden}
-.chinge-style select{width:280px;margin-top:5px;border:0px;background:#FFF;font:normal 12px/28px 'Droid Arabic Kufi', tahoma;color:#a17fb3;height:28px;
+#login_hide2{width:19px;height:19px;float:right;margin-right:15px;margin-top:5px;background:url(http://i97.servimg.com/u/f97/19/55/08/62/color810.png) -365px -37px;visibility:hidden}
+.chinge-style select{width:280px;margin-top:5px;border:0px;background:#FFF;font:normal 12px/28px 'Droid Arabic Kufi', tahoma;color:#b74146;height:28px;
 margin-right:5px;float:right;}
 .forums-nei-cont .tborder{border:2px solid #ebebeb;width:98%;padding:0px;background:#f3f3f3;}
 img{width:auto;height:auto;}
@@ -557,4 +559,3 @@ clear:both;z-index:100;box-shadow:0px 0px 10px #131313;padding:0px 20px;color:#F
 .member-img{float:right;position:relative;top:6px;}
 .members_notfection img{margin-right:10px;position:relative;top:5px;}
 .members_notcss{clear:both;position:absolute;}
-
